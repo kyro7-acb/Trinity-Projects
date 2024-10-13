@@ -1,2 +1,2 @@
 **Trinity college projects**:
-This repository contain all projects I have done in college.
+This repository contain all lab work I have done in college.
